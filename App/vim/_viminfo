@@ -1,0 +1,134 @@
+# 本 viminfo 檔案是由 Vim 7.4 所產生.
+# 如果想要自行修改請特別小心！
+
+# 'encoding' 在此檔建立時的值
+*encoding=cp950
+
+
+# hlsearch on (H) or off (h):
+~h
+# 命令列 歷史記錄 (新到舊):
+:q
+:e C:\Users\092271\gVimPortable\Data\settings\_vimrc
+:e $VIM/_vimrc
+
+# 搜尋字串 歷史記錄 (新到舊):
+
+# 運算式 歷史記錄 (新到舊):
+
+# 輸入行  歷史記錄 (新到舊):
+
+# 輸入行  歷史記錄 (新到舊):
+
+# 暫存器:
+
+# 檔案標記:
+'0  23  0  ~\_vimrc
+'1  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+
+# Jumplist (由新到舊):
+-'  23  0  ~\_vimrc
+-'  1  0  ~\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  23  0  ~\_vimrc
+-'  1  0  ~\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  23  0  ~\_vimrc
+-'  1  0  ~\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  23  0  ~\_vimrc
+-'  1  0  ~\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  23  0  ~\_vimrc
+-'  1  0  ~\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  23  0  ~\_vimrc
+-'  1  0  ~\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  23  0  ~\_vimrc
+-'  1  0  ~\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  23  0  ~\_vimrc
+-'  1  0  ~\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  23  0  ~\_vimrc
+-'  1  0  ~\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  23  0  ~\_vimrc
+-'  1  0  ~\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  23  0  ~\_vimrc
+-'  1  0  ~\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  23  0  ~\_vimrc
+-'  1  0  ~\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  23  0  ~\_vimrc
+-'  1  0  ~\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  23  0  ~\_vimrc
+-'  1  0  ~\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  23  0  ~\_vimrc
+-'  1  0  ~\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  23  0  ~\_vimrc
+-'  1  0  ~\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+-'  23  0  ~\_vimrc
+
+# 檔案內 Mark 記錄 (由新到舊):
+
+> ~\_vimrc
+	"	23	0
+
+> C:\Users\092271\gVimPortable\App\vim\_vimrc
+	"	1	0

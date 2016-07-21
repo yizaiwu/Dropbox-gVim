@@ -1,2 +1,2 @@
 # Dropbox-gVim
-Vim Portable for Windows Sync with GitHub
+gVim Portable for Windows Sync with GitHub

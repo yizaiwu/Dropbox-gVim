@@ -2,6 +2,14 @@
 set nocompatible             " not compatible with the old-fashion vi mode
 filetype off                 " required!
 
+let $LANG="zh_TW.UTF-8"
+set langmenu=zh_tw.utf-8
+set encoding=utf8
+
+"reload menu with UTF-8 encoding
+source $VIMRUNTIME/delmenu.vim
+source $VIMRUNTIME/menu.vim
+
 source $VIMRUNTIME/vimrc_example.vim
 source $VIMRUNTIME/mswin.vim
 behave mswin
@@ -60,3 +68,7 @@ set showcmd
 set mouse=a
 set history=1000
 set undolevels=1000
+set hlsearch
+set backspace=2
+set showmode
+set bg=dark

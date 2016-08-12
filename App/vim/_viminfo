@@ -1,32 +1,83 @@
-# ¥» viminfo ÀÉ®×¬O¥Ñ Vim 7.4 ©Ò²£¥Í.
-# ¦pªG·Q­n¦Û¦æ­×§ï½Ð¯S§O¤p¤ß¡I
+# æœ¬ viminfo æª”æ¡ˆæ˜¯ç”± Vim 7.4 æ‰€ç”¢ç”Ÿ.
+# å¦‚æžœæƒ³è¦è‡ªè¡Œä¿®æ”¹è«‹ç‰¹åˆ¥å°å¿ƒï¼
 
-# 'encoding' ¦b¦¹ÀÉ«Ø¥ß®Éªº­È
-*encoding=cp950
+# 'encoding' åœ¨æ­¤æª”å»ºç«‹æ™‚çš„å€¼
+*encoding=utf-8
 
 
 # hlsearch on (H) or off (h):
 ~h
-# ©R¥O¦C ¾ú¥v°O¿ý (·s¨ìÂÂ):
+# å‘½ä»¤åˆ— æ­·å²è¨˜éŒ„ (æ–°åˆ°èˆŠ):
+:set
+:set all
 :q
+:sp
+:files
+:map
+:help recover
+:! dir/w
+:help
 :e C:\Users\092271\gVimPortable\Data\settings\_vimrc
 :e $VIM/_vimrc
 
-# ·j´M¦r¦ê ¾ú¥v°O¿ý (·s¨ìÂÂ):
+# æœå°‹å­—ä¸² æ­·å²è¨˜éŒ„ (æ–°åˆ°èˆŠ):
 
-# ¹Bºâ¦¡ ¾ú¥v°O¿ý (·s¨ìÂÂ):
+# é‹ç®—å¼ æ­·å²è¨˜éŒ„ (æ–°åˆ°èˆŠ):
 
-# ¿é¤J¦æ  ¾ú¥v°O¿ý (·s¨ìÂÂ):
+# è¼¸å…¥è¡Œ  æ­·å²è¨˜éŒ„ (æ–°åˆ°èˆŠ):
 
-# ¿é¤J¦æ  ¾ú¥v°O¿ý (·s¨ìÂÂ):
+# è¼¸å…¥è¡Œ  æ­·å²è¨˜éŒ„ (æ–°åˆ°èˆŠ):
 
-# ¼È¦s¾¹:
+# æš«å­˜å™¨:
+""0	BLOCK	4
+	host1
+	host2
+	host3
+	host4
+	host5
+	host6
+	host7
+	host8
+	host9
+"1	LINE	0
+	    System.out.println("Hello! World! éŠå‰œ?çšœç¥ˆå²«");
+"2	LINE	0
+	    System.out.println("Hello! World! éŠå‰œ?çšœç¥ˆå²«");
+"3	LINE	0
+	    System.out.println("Hello Java éŠå‰œ?çšœç¥ˆå²«");  //éŠå‰œ?çšœç¥ˆå²«
+	  }
+	
+	}
+"4	LINE	0
+	
+	  public static void main(String[] args) {
+"5	LINE	0
+	public laselloSublime{
+"-	CHAR	0
+	public class 
 
-# ÀÉ®×¼Ð°O:
-'0  23  0  ~\_vimrc
-'1  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
+# æª”æ¡ˆæ¨™è¨˜:
+'0  3  9  C:\Users\092271\Documents\Head First Java\HelloWorld.java
+'1  1  0  C:\GitPortable\Data\home\.vimrc
+'2  1  0  C:\Users\092271\Documents\Head First Java\helloSublime.java
+'3  131  0  C:\Users\092271\Downloads\man_db.conf
+'4  9  0  C:\Users\092271\Downloads\hosts.txt
+'5  1  43  C:\Users\092271\Downloads\hosts.txt
+'6  23  0  ~\_vimrc
+'7  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
 
-# Jumplist (¥Ñ·s¨ìÂÂ):
+# Jumplist (ç”±æ–°åˆ°èˆŠ):
+-'  3  9  C:\Users\092271\Documents\Head First Java\HelloWorld.java
+-'  1  0  C:\GitPortable\Data\home\.vimrc
+-'  1  0  C:\Users\092271\Documents\Head First Java\helloSublime.java
+-'  131  0  C:\Users\092271\Downloads\man_db.conf
+-'  1  0  C:\Users\092271\Downloads\man_db.conf
+-'  11  0  C:\Users\092271\Downloads\man_db.conf
+-'  9  0  C:\Users\092271\Downloads\hosts.txt
+-'  1  33  C:\Users\092271\Downloads\hosts.txt
+-'  2  4  C:\Users\092271\Documents\Head First Java\HelloWorld.java
+-'  4  2  C:\Users\092271\Documents\Head First Java\HelloWorld.java
+-'  1  0  C:\Users\092271\Documents\Head First Java\HelloWorld.java
 -'  23  0  ~\_vimrc
 -'  1  0  ~\_vimrc
 -'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
@@ -113,19 +164,48 @@
 -'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
 -'  23  0  ~\_vimrc
 -'  1  0  ~\_vimrc
--'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
--'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
--'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
--'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
--'  23  0  ~\_vimrc
--'  1  0  ~\_vimrc
--'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
--'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
--'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
--'  1  0  C:\Users\092271\gVimPortable\App\vim\_vimrc
--'  23  0  ~\_vimrc
 
-# ÀÉ®×¤º Mark °O¿ý (¥Ñ·s¨ìÂÂ):
+# æª”æ¡ˆå…§ Mark è¨˜éŒ„ (ç”±æ–°åˆ°èˆŠ):
+
+> C:\Users\092271\Documents\Head First Java\HelloWorld.java
+	"	3	9
+	^	3	9
+	.	2	0
+	+	2	15
+	+	1	0
+	+	4	0
+	+	2	16
+	+	2	0
+	+	4	0
+	+	3	0
+	+	2	0
+
+> C:\GitPortable\Data\home\.vimrc
+	"	1	0
+
+> C:\Users\092271\Documents\Head First Java\helloSublime.java
+	"	1	0
+	.	1	0
+	+	1	0
+	+	1	0
+
+> C:\Users\092271\Downloads\man_db.conf
+	"	131	0
+
+> C:\Users\092271\Downloads\hosts.txt
+	"	9	0
+	^	1	32
+	.	1	0
+	+	1	0
+
+> C:\Users\092271\gVimPortable\App\vim\vim74\doc\usr_toc.txt
+	"	20	0
+
+> C:\Users\092271\gVimPortable\App\vim\vim74\doc\recover.txt
+	"	161	12
+
+> C:\Users\092271\gVimPortable\App\vim\vim74\doc\help.txt
+	"	1	0
 
 > ~\_vimrc
 	"	23	0
